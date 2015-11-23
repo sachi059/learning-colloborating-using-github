@@ -9,3 +9,5 @@ what happens with the file.
 Now i am learning about diff command, currently this file was in staged area, and i am 
 adding changes to this, this should act as change in current directory.
 In this case this file should be both staged and commited.
+
+Added this line while doing changes in a branch which i am going to merge with master branch.

@@ -1,1 +1,11 @@
 Create new file in sachi059-branch
+
+Now testing this file by adding to this to staging area at master branch.
+
+
+Now the file is at staging area, but i am still changing content of the file to check
+what happens with the file.
+
+Now i am learning about diff command, currently this file was in staged area, and i am 
+adding changes to this, this should act as change in current directory.
+In this case this file should be both staged and commited.
